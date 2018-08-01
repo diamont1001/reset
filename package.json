@@ -1,0 +1,23 @@
+{
+  "name": "jr-reset",
+  "version": "1.0.0",
+  "description": "base style for private",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diamont1001/reset.git"
+  },
+  "keywords": [
+    "reset",
+    "less"
+  ],
+  "author": "材主 <diamont1001@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diamont1001/reset/issues"
+  },
+  "homepage": "https://github.com/diamont1001/reset#readme"
+}

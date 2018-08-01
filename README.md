@@ -1,2 +1,2 @@
 # reset
-base style for private
+base style(less) for private
