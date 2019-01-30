@@ -1,6 +1,6 @@
 {
   "name": "jr-reset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "base style for private",
   "main": "index.js",
   "scripts": {
