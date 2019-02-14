@@ -51,6 +51,10 @@ base/reset.less:
 @import '~jr-reset/wap/reset.less';
 @import './mixin.less';
 
+// 定义自己个性化的样式，比如
+body {
+    font-size: 14px;
+}
 ...
 ```
 
@@ -59,8 +63,8 @@ base/mixin.less
 ```less
 @import '~jr-reset/common/mixin.less';
 
+// 定义自己个性化的 mixin，比如
 @colorMain: #3aa7f9; // 主色调
-
 ...
 ```
 
