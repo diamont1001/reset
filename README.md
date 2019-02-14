@@ -1,4 +1,4 @@
-# reset
+# reset in less
 base style(less) for private
 
 ## install
